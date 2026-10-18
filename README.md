@@ -1,4 +1,4 @@
-# Data Science Internship Projects | SkillCraft Technology
+# Data Science Internship Projects 
 
 A collection of four data science tasks completed during my Data Science internship at SkillCraft Technology. Each task covers a different part of the workflow: data cleaning, exploratory data analysis (EDA), visualization, and a machine learning model.
 
